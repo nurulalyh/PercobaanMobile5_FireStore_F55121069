@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942299676526",
+    "project_id": "firestore-f55121069-d4ccc",
+    "storage_bucket": "firestore-f55121069-d4ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942299676526:android:0edeee67a22d77a89c0b7f",
+        "android_client_info": {
+          "package_name": "com.nurulaliyah_f55121069.firestore_f55121069"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942299676526-v7cnsq09n4j6vb8p151ola4tan71imoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjkt2zrn9SbWuFA2WmatlzSrLMYHzos0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942299676526-v7cnsq09n4j6vb8p151ola4tan71imoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
